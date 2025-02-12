@@ -92,8 +92,6 @@ chatting-web-app/
 - **Chatbot Integration**
 - **Message Reactions & Read Receipts**
 
-## 📝 License
-This project is **MIT Licensed**.
 
 ---
 

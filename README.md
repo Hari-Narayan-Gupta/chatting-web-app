@@ -17,7 +17,6 @@ This is a real-time chatting web application built using **React.js**, **Node.js
 - **Message History Stored in MongoDB**
 - **Online User Status**
 - **Typing Indicators**
-- **Profile Management**
 - **Responsive UI**
 
 ## 🏗️ Project Setup

@@ -13,7 +13,7 @@ This is a real-time chatting web application built using **React.js**, **Node.js
 ## 📌 Features
 - **User Authentication** (Sign Up / Login)
 - **Real-time Messaging** with Socket.io
-- **One-on-One & Group Chats**
+- **One-on-One**
 - **Message History Stored in MongoDB**
 - **Online User Status**
 - **Typing Indicators**
